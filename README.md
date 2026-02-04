@@ -46,7 +46,7 @@ It automatically calibrates to the user’s correct sitting posture and provides
 
 ## Prototype Demo
 🎥 Working prototype demonstration video:  
-https://youtu.be/abhlKYergEE?si=-aEJYajC8ZpIq8cy
+https://youtube.com/shorts/IOyoy3nKbvY?feature=share
 
 ---
 
