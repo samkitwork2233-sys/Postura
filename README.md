@@ -59,7 +59,9 @@ https://youtu.be/abhlKYergEE?si=-aEJYajC8ZpIq8cy
 ## 📸 Prototype Images
 
 ### Working Prototype
-![POSTURA Working Prototype](POSTURAPHOTO.jpeg)
+## 📸 Prototype in Use
+![User wearing POSTURA](USERW_WEARING_POSTURA.png)
+
 
 
 
