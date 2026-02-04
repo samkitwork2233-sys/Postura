@@ -5,7 +5,7 @@ It focuses on preventive health and addresses posture-related issues caused by p
 
 ---
 
-## Hackathon Theme Alignment
+
 **Theme:** Health-Tech & Social Impact  
 
 POSTURA acts as a preventive health-tech solution by promoting posture awareness before long-term back and spinal problems develop.
@@ -30,7 +30,7 @@ It automatically calibrates to the user’s correct sitting posture and provides
 - Slouch detection using tilt angle  
 - Instant vibration alert  
 - Adjustable sensitivity  
-- App-based daily posture summary (v2)  
+- App-based daily posture summary 
 - Low-power, privacy-focused design  
 
 ---
@@ -46,14 +46,14 @@ It automatically calibrates to the user’s correct sitting posture and provides
 
 ## Prototype Demo
 🎥 Working prototype demonstration video:  
-(Add link here)
+https://youtu.be/abhlKYergEE?si=-aEJYajC8ZpIq8cy
 
 ---
 
 ## Project Status
-- ✅ Working hardware prototype  
-- 🔄 App integration (v2)  
-- 🔄 Size optimization  
+- ✅ Working hardware prototype  -DONE
+- 🔄 App integration (v2)        -READY
+- 🔄 Size optimization           -DONE
 
 ---
 
