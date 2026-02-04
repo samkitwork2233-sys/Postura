@@ -56,6 +56,12 @@ https://youtu.be/abhlKYergEE?si=-aEJYajC8ZpIq8cy
 - 🔄 Size optimization           -DONE
 
 ---
+## 📸 Prototype Images
+
+### Working Prototype
+![POSTURA Working Prototype](POSTURAPHOTO.jpeg)
+
+
 
 ## Disclaimer
 POSTURA is a non-medical, assistive device intended for posture awareness and habit improvement.
