@@ -57,6 +57,7 @@ https://youtube.com/shorts/IOyoy3nKbvY?feature=share
 
 ---
 ## 📸 Prototype Images
+![Postura Image](posturapic.png)
 
 ### Working Prototype
 ## 📸 Prototype in Use
